@@ -1,0 +1,10 @@
+
+*.a
+*.out
+*.o
+ft_ssl
+debug_ft_ssl
+
+.vscode/ipch/*
+
+.DS*
